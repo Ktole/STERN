@@ -1,4 +1,4 @@
-# STEN-RP Reproducibility Repository (v0.1.0)
+# STEN-RP Repository (v0.1.0)
 
 Research code and data layout for the Stochastic Temporary Endogenous Network Routing Problem (STEN-RP).
 
