@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "STEN-RP Reproducibility Repository"
+message: "If you use this software, please cite the archived release and associated article."
+type: software
+authors:
+  - family-names: Tole
+    given-names: Kevin
+version: 0.1.0
+date-released: 2026-09-19
+# doi: Add the persistent identifier assigned to the archived release before publication.

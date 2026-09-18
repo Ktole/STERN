@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "master_seed": 20260919,
+  "benchmark": {"n_nodes": 12, "base_arc_probability": 0.28, "n_latent": 4, "n_actions": 4, "horizon": 18},
+  "scenarios": {"activation_probability": 0.80, "lifetime_low": 3, "lifetime_high": 7, "travel_cv": 0.20},
+  "saa": {"replications": 4, "sample_size": 20, "validation_size": 80, "test_size": 200, "iterations": 12}
+}

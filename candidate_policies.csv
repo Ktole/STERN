@@ -1,0 +1,5 @@
+success,status,objective,route_arc_times,message,replication,scenario_id
+True,0,1.6056157574090915,"[(3, 0)]",Optimization terminated successfully. (HiGHS Status 7: Optimal),0,9
+True,0,1.8585685483204797,"[(3, 0)]",Optimization terminated successfully. (HiGHS Status 7: Optimal),1,22
+True,0,1.2079465358886903,"[(3, 0)]",Optimization terminated successfully. (HiGHS Status 7: Optimal),2,55
+True,0,1.4256696248960241,"[(3, 0)]",Optimization terminated successfully. (HiGHS Status 7: Optimal),3,77
